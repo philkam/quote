@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: cyan;
+    color: gold;
+}
+
+p{
+    font-size: 40px;
+}
+
+button:hover{
+    background-color: green;
+}
